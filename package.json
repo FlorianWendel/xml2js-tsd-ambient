@@ -1,0 +1,15 @@
+{
+  "name": "retyped-xml2js-tsd-ambient",
+  "description": "TypeScript typings for xml2js",
+  "version": "0.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/xml2js-tsd-ambient",
+  "typescript": {
+    "definition": "xml2js.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
